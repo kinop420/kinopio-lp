@@ -1,0 +1,38 @@
+{
+ "mission": "",
+ "employees": {
+  "judge": {
+   "status": "idle",
+   "task": ""
+  },
+  "han": {
+   "status": "idle",
+   "task": ""
+  },
+  "owl": {
+   "status": "idle",
+   "task": ""
+  },
+  "zeni": {
+   "status": "idle",
+   "task": ""
+  },
+  "dig": {
+   "status": "idle",
+   "task": ""
+  },
+  "kuro": {
+   "status": "idle",
+   "task": ""
+  },
+  "niko": {
+   "status": "idle",
+   "task": ""
+  },
+  "new": {
+   "status": "idle",
+   "task": ""
+  }
+ },
+ "log": []
+}
