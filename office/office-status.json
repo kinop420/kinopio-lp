@@ -1,13 +1,13 @@
 {
- "mission": "",
+ "mission": "公開直後のオフィスアプリ点検",
  "employees": {
   "judge": {
    "status": "idle",
    "task": ""
   },
   "han": {
-   "status": "idle",
-   "task": ""
+   "status": "working",
+   "task": "点検項目の洗い出しと段取り"
   },
   "owl": {
    "status": "idle",
@@ -34,5 +34,16 @@
    "task": ""
   }
  },
- "log": []
+ "log": [
+  {
+   "time": "22:03",
+   "who": "judge",
+   "msg": "ミッション受理: 公開直後のオフィスアプリ点検"
+  },
+  {
+   "time": "22:03",
+   "who": "han",
+   "msg": "[開始] 点検項目の洗い出しと段取り"
+  }
+ ]
 }
