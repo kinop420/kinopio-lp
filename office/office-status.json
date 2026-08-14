@@ -1,5 +1,5 @@
 {
- "mission": "GitHub Pages設置の動作確認",
+ "mission": "",
  "employees": {
   "judge": {
    "status": "idle",
@@ -34,11 +34,5 @@
    "task": ""
   }
  },
- "log": [
-  {
-   "time": "21:44",
-   "who": "judge",
-   "msg": "ミッション受理: GitHub Pages設置の動作確認"
-  }
- ]
+ "log": []
 }
