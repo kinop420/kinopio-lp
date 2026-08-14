@@ -1,13 +1,13 @@
 {
  "mission": "公開直後のオフィスアプリ点検",
  "employees": {
-  "judge": {"status": "idle", "task": ""},
+  "judge": {"status": "error", "task": "承認待ち: ノッチ回避の1行を入れるか"},
   "han": {"status": "done", "task": "点検7項目を決定"},
   "owl": {"status": "idle", "task": ""},
   "zeni": {"status": "idle", "task": ""},
   "dig": {"status": "done", "task": "配信ヘッダと取得コードを収集"},
   "kuro": {"status": "done", "task": "PWA設定7項目を点検、1件だけ要確認"},
-  "niko": {"status": "working", "task": "点検結果を報告にまとめる"},
+  "niko": {"status": "done", "task": "点検結果を報告にまとめた"},
   "new": {"status": "idle", "task": ""}
  },
  "log": [
@@ -20,6 +20,8 @@
   {"time": "23:08", "who": "kuro", "msg": "アイコン192/512は宣言どおり。フルスクリーン指定も入っている"},
   {"time": "23:08", "who": "kuro", "msg": "ノッチ回避の指定だけ無し。実機で見て気になるかどうか"},
   {"time": "23:08", "who": "kuro", "msg": "[完了] PWA設定7項目を点検、1件だけ要確認"},
-  {"time": "23:08", "who": "niko", "msg": "[開始] 点検結果を報告にまとめる"}
+  {"time": "23:08", "who": "niko", "msg": "[開始] 点検結果を報告にまとめる"},
+  {"time": "23:09", "who": "niko", "msg": "[完了] 点検結果を報告にまとめた"},
+  {"time": "23:09", "who": "judge", "msg": "[承認待ち] ノッチ回避の1行を入れるか"}
  ]
 }
