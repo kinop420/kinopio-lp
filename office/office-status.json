@@ -1,49 +1,18 @@
 {
  "mission": "公開直後のオフィスアプリ点検",
  "employees": {
-  "judge": {
-   "status": "idle",
-   "task": ""
-  },
-  "han": {
-   "status": "working",
-   "task": "点検項目の洗い出しと段取り"
-  },
-  "owl": {
-   "status": "idle",
-   "task": ""
-  },
-  "zeni": {
-   "status": "idle",
-   "task": ""
-  },
-  "dig": {
-   "status": "idle",
-   "task": ""
-  },
-  "kuro": {
-   "status": "idle",
-   "task": ""
-  },
-  "niko": {
-   "status": "idle",
-   "task": ""
-  },
-  "new": {
-   "status": "idle",
-   "task": ""
-  }
+  "judge": {"status": "idle", "task": ""},
+  "han": {"status": "done", "task": "点検7項目を決定"},
+  "owl": {"status": "idle", "task": ""},
+  "zeni": {"status": "idle", "task": ""},
+  "dig": {"status": "working", "task": "公開ページの配信ヘッダを収集"},
+  "kuro": {"status": "idle", "task": ""},
+  "niko": {"status": "idle", "task": ""},
+  "new": {"status": "idle", "task": ""}
  },
  "log": [
-  {
-   "time": "22:03",
-   "who": "judge",
-   "msg": "ミッション受理: 公開直後のオフィスアプリ点検"
-  },
-  {
-   "time": "22:03",
-   "who": "han",
-   "msg": "[開始] 点検項目の洗い出しと段取り"
-  }
+  {"time": "23:04", "who": "judge", "msg": "ミッション受理: 公開直後のオフィスアプリ点検"},
+  {"time": "23:05", "who": "han", "msg": "[完了] 点検7項目を決定"},
+  {"time": "23:05", "who": "dig", "msg": "[開始] 公開ページの配信ヘッダを収集"}
  ]
 }
